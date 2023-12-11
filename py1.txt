@@ -1,0 +1,13 @@
+import math
+
+# Calculate the square root of a number
+sqrt = math.sqrt(16)
+print(f"The square root of 16 is {sqrt}")
+
+# Calculate the cosine of a number
+cos = math.cos(math.pi/4)
+print(f"The cosine of pi/4 is {cos}")
+
+# Calculate the factorial of a number
+fact = math.factorial(5)
+print(f"The factorial of 5 is {fact}")
